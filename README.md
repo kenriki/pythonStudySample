@@ -32,5 +32,5 @@ from matplotlib import pyplot as plt
 > stackSample.py でスタックのアルゴリズムを理解
 
 ## study4
-> sample1.py コンストラクタについて学ぶ
+> sample1.py コンストラクタについて学ぶ  
 > sample2.py ディープラーニングで画像認識する
