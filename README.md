@@ -28,3 +28,9 @@ import numpy as np
 from matplotlib import pyplot as plt
 ```
 
+## study3
+> stackSample.py でスタックのアルゴリズムを理解
+
+## study4
+> sample1.py コンストラクタについて学ぶ
+> sample2.py ディープラーニングで画像認識する
