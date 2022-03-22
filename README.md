@@ -29,8 +29,12 @@ from matplotlib import pyplot as plt
 ```
 
 ## study3
-> stackSample.py でスタックのアルゴリズムを理解
+> ./app/stackSample.py でスタックのアルゴリズムを理解
 
 ## study4
-> sample1.py コンストラクタについて学ぶ  
-> sample2.py ディープラーニングで画像認識する
+> ./app/sample1.py コンストラクタについて学ぶ  
+> ./app/sample2.py ディープラーニングで画像認識する
+
+## study5 
+> ./app/sample3.py matplotlib サンプル1
+> ./jupyter/matplotlibSample_1.ipynb  matplotlib サンプル2
